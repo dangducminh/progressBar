@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SemiCircleDrawable">
+        <attr name="progress" format="float" />
+        <attr name="max" format="float" />
+        <attr name="ordinate_of_center_of_circle" format="float" />
+        <attr name="abscissa_of_center_of_circle" format="float" />
+        <attr name="radius" format="float" />
+        <attr name="thickness_of_progress" format="float" />
+        <attr name="background_color" format="reference|color" />
+        <attr name="progress_color" format="reference|color" />
+    </declare-styleable>
+</resources>
